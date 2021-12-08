@@ -22,7 +22,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url='http://t.me/EvaMariaBot?startgroup=true')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🎥 Group', url='https://t.me/EvaMariaUpdates')
+            InlineKeyboardButton('🎥 Group', url='https://t.me/movieclub3136')
             ],[
             InlineKeyboardButton('📂 Chnannel', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
